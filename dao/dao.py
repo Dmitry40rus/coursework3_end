@@ -57,7 +57,7 @@ class PostDAO:
         return
 
     def get_post_by_pk_json(self, pk):
-        posts = self.load_posts_json()
+        posts = self.load_posts()
         for post in posts:
             if post['pk'] == pk:
                 return post
