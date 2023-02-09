@@ -45,7 +45,7 @@ class PostDAO:
         new_posts = []
 
         for post in posts:
-            if substr in post.content.lower():
+            if substr in post['content'].lower():
                 new_posts.append(post)
         return new_posts
 

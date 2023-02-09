@@ -468,3 +468,19 @@ INFO:werkzeug: * Detected change in '/Volumes/d/pythonProject/pythonProject/skyp
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 754-943-825
+INFO:werkzeug: * Detected change in '/Volumes/d/pythonProject/pythonProject/skypro/coursework3_source/dao/dao.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 754-943-825
+INFO:werkzeug: * Detected change in '/Volumes/d/pythonProject/pythonProject/skypro/coursework3_source/dao/dao.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 754-943-825
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:33] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:40] "GET /search?s=еда HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:40] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:40] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:40] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
