@@ -484,3 +484,13 @@ INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:40] "GET /search?s=еда HTTP/1.
 INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:40] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:40] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 17:52:40] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:00:53] "GET /users/leo HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:00:53] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:00:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:00:56] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:00:56] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:00:56] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:01:05] "GET /posts/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:01:05] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:01:05] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2023 18:01:05] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -

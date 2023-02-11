@@ -11,8 +11,8 @@ logging.basicConfig(filename='./logs/basic.log', level=logging.INFO)
 @api_blueprint.route('/api/posts/', methods=['GET'])
 def get_all_posts():
     logging.info(f'{datetime.datetime.now()} [INFO] Запрос /api/posts/')
-    res = posts.load_posts_json()
-    return jsonify(posts.load_posts_json())
+    res = posts.load_posts()
+    return jsonify(posts.load_posts())
 
 
 @api_blueprint.route('/api/posts/<int:postid>', methods=['GET'])
