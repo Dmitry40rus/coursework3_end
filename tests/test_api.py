@@ -1,6 +1,6 @@
 import pytest
 from app import app
-
+from appy import app
 
 keys_should_be = {
     "poster_name",
